@@ -26,5 +26,5 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/aliakyildiz44/real-time-license-detection.git
    cd your-project
